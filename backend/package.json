@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "a server setup for CRM dashboard",
+  "description": "a server setup",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
